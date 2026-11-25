@@ -179,8 +179,3 @@ excel-data-jobs-salary-dashboard/
 4. All charts, rankings, and KPI cards update automatically.
 
 ---
-
-## Author & Acknowledgments
-
-* **Author:** [Shravan Lingayat](https://github.com/shravan3161)
-* **Dataset & Reference Inspiration:** Inspired by Project 1 of Luke Barousse's *Excel for Data Analytics* course.
