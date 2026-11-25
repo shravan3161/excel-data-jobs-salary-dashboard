@@ -1,0 +1,15 @@
+# Temporary Excel lock and swap files
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+*.tmp
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor artifacts
+.vscode/
+.idea/
